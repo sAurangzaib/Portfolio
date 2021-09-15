@@ -6,7 +6,7 @@ Overall 5 years of experience in Mobile App Development using Swift and Obj- C. 
 YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
 
 ### My Role ###
-Senior iOS developer Communicating with YAP Bussiness team, understanding requirements and sprint planning.
+iOS developer Communicating with YAP Bussiness team, understanding requirements and sprint planning.
 
 ### Technologies ###
 * Swift(5)
@@ -20,3 +20,50 @@ Senior iOS developer Communicating with YAP Bussiness team, understanding requir
 <p align="center">
 <img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/5.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/4.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/8.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/2.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/7.webp" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/1.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Yap/6.webp" width="150" title="iPad version">
 </p>
+
+# [BARQ Stores](https://play.google.com/store/apps/details?id=com.kaakati.barqmerchant)
+Best and secure channel to send your luggage, jewelry and expensive material with ease. Setup luggage pick-location and recipient information and leave the rest to us.
+
+### My Role ###
+ iOS developer. My responsibilites were to communicate with product owner, guide UI/UX team about the future flows, Impletent the User requirements. 
+
+### Technologies ###
+* Swift
+* Core data
+* Lottie animations
+* Google maps
+* Push Notifications
+* Google Location services
+* Firebase
+* Payment gateways
+* 
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/7.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/8.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/9.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/10.jpg" width="230" title="Spirituality">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/11.jpg" width="230" title="Spirituality">
+</p>
+
+ # [BARQ Fleet](https://play.google.com/store/apps/details?id=com.kaakati.barqcaptain)
+Truly innovative idea to make money by carrying parcels with your luggage. Pick the parcel from your nearest locations, deliver at your destination to make money.
+
+### My Role ###
+As Android Developer gathhered the user requirements and implement into the cutting edge features.
+
+### Technologies ###
+* Java
+* Kotlin
+* Room Db
+* Lottie animations
+* Glide
+* Google maps
+* Push Notifications
+* Okhttp3
+* Google Location services
+* Firebase
+* Map clustering
+* Payment gateways
+
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/1.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/2.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/3.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/4.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/5.jpg" width="230" title="Spirituality">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/11.jpg" width="230" title="Spirituality">
+</p>
+
