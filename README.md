@@ -47,10 +47,42 @@ Software Engineer-iOS. Worked on different modules, like custom camera, posting,
 
 ### Note ###
 This app isn't available on app-store yet.
+
 <p align="center">
 <img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/8.png" width="150" title="iPad version">
 </p>
 
+# [RevBits-ZTN – Zero trust network](https://apps.apple.com/us/app)
+This is all about cybersecurity products, the main theme of the App is to provide zero trust network access
+to the users. For the Product we maintain web-site and mobile App for iOS and android as well. Users can handle their own user domain. Initially when a user registers by using any domain’s email, the first user will be the Admin of it’s network and after that all the entries of that particular domain will be considered as users.
+Admin can manage their users and also watch their activities as well.
+On the mobile side users will be able to register, login and authenticate himself/ herself.
+
+## In the App we covered the following authentications ##
+* Face-ID/Touch-ID (Show anyone of them according to device capabilities) OTP
+* SMS
+* Yubikey
+* NFC U2F
+
+
+User can authenticate to make himself/ herself an authenticated user of this application. Admin can also Enforce the user to enable some essential authentication types as well.
+Push notifications also handle for better user experience. Like G-mail login notifications, when a user is trying to login on another device with the same credentials that time app receives notification and asks for approval. If the user allows the web to automatically get login.
+Users also enable authentication by Scanning QR code through mobile app and also can do login on the web with scanning as well.
+
+### My Role ###
+iOS developer Communicating with Bussiness team and client, understanding requirements and sprint planning with team members. On iOS side I have created this app from scratch.
+
+### Technologies ###
+* Swift(5)
+* Realm
+* Dark mode support
+* Push Notifications
+* Google Location services
+* Firebase
+* MVVM
+
+### Note ###
+This app isn't available on app-store yet.
 
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
