@@ -113,3 +113,25 @@ As iOS Developer gathhered the user requirements and implement into the cutting 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/11.jpg" width="230" title="Spirituality">
 </p>
 
+
+ # [Ballin Nightlife](https://apps.apple.com/pk/app/ballin-nightlife/id1286870224)
+Ballin is a free Nightlife app that helps people discover Nightclubs and book tickets for the best parties in town. With Ballin, people who want to go clubbing can secure their reservation into a club with just a few taps. We started in London, have added more clubs from more cities across the UK and are now making plans to grow globally.
+
+
+Whether you’re looking for a table or guestlist for tonight, or you would like to see what live club events & PA’s are upcoming, or even if you want to plan a stag / hen / birthday party in a Nightclub, Ballin can be used to satisfy your clubbing requirements – download the app and find the clubbing hotspots near you.
+
+### My Role ###
+As iOS Developer worked under senior team members. 
+
+### Technologies ###
+* Swift
+* Core data
+* Google maps
+* Push Notifications
+* Google Location services
+* Firebase
+* Payment gateways
+
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Ballin/1.png" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Ballin/2.png" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Ballin/3.png" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Ballin/4.png" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
