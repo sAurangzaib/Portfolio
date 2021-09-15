@@ -28,6 +28,30 @@ Worked with team coordination. Worked on different moulds like Unit testing, UI 
 </p>
 
 
+# [Cirlc](https://apps.apple.com/us/app)
+Worked this project with team coordination. This app is related to Gymming consultancy. This app have two user ends one is Freelancer and other is customer. User as Freelancer can register his/her schdule class time using calender. Add different demo videos images, subscription content, public content and Stories etc. On other end User as Customer can set appointment, follow Trainers and subscribe their content as well and many more.
+
+### My Role ###
+Software Engineer-iOS. Worked on different modules, like custom camera, posting, local DB handling and appointments from client to trainers.
+
+### Technologies ###
+* Swift(5)
+* Realm
+* Lottie animations
+* Google maps
+* Push Notifications
+* Google Location services
+* Firebase
+* Clean architecture
+* Payment gateways
+
+### Note ###
+This app isn't available on app-store yet.
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/8.png" width="150" title="iPad version">
+</p>
+
+
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
 
@@ -62,7 +86,7 @@ Best and secure channel to send your luggage, jewelry and expensive material wit
 * Google Location services
 * Firebase
 * Payment gateways
-* 
+ 
 <p align="center">
 <img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/7.jpg" width="230"  title="Feeds">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/8.jpg" width="230" title="Marketplace">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/9.jpg" width="230" title="Spirituality">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/10.jpg" width="230" title="Spirituality">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Barq/11.jpg" width="230" title="Spirituality">
