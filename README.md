@@ -70,7 +70,7 @@ Push notifications also handle for better user experience. Like G-mail login not
 Users also enable authentication by Scanning QR code through mobile app and also can do login on the web with scanning as well.
 
 ### My Role ###
-iOS developer Communicating with Bussiness team and client, understanding requirements and sprint planning with team members. On iOS side I have created this app from scratch.
+As iOS developer Communicating with Bussiness team and client, understanding requirements and sprint planning with team members. On iOS side I have created this app from scratch.
 
 ### Technologies ###
 * Swift(5)
