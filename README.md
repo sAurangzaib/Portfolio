@@ -1,6 +1,5 @@
 # Portfolio
 Overall 5 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Digitify (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVVM, VIPER and Clean architecture with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. Delivers many applications to client successfully also published on App-store.
-.
 
 # [Fayvo – Share your favorites](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 Favyo is a useful social platform to share your favourite pictures, books, food, fashion, products, places, music, movies, moments and all the good stuff you never want to lose! All organized in one place for others to discover and use as trustworthy recommendations!
