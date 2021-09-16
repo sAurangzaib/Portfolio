@@ -28,10 +28,12 @@ Worked with team coordination. Worked on different moulds like Unit testing, UI 
 
 
 # [Directooo – Explore everything you want](https://apps.apple.com/pk/app/directooo/id1565324549)
-This App have different app's ideas inside, we can say this app is one in all.
-Social App(Posting, stories, view users posts, like share etc. Any user can sale their content and can do business with virtual things like user can request to content provider to ful-fill his request and pay to him.)
-E-Commerce (Manage user store like add, update, sale and purchase products also manage profile as well.) Service-Provider (User can sale and purchase their any kind of service, this is another profile)
-Charitable (charitable organization can do register their profiles and manage here, other business holder can share their charities to them.)
+
+DIRECTOOO is an application-based platform for sellers, purchasers, merchants, service providers and consumers; it will be uniform and trouble-free way to advertise and sell products online.DIRECTOOO utilizes a consolidation that allows online merchants and influencers to instantly profit, offering consumers a convenient, centralized online location to browse, discover, and purchase. This App have different app's ideas inside, we can say this app is one in all.
+
+* Social App(Posting, stories, view users posts, like share etc. Any user can sale their content and can do business with virtual things like user can request to content provider to ful-fill his request and pay to him.)
+* E-Commerce (Manage user store like add, update, sale and purchase products also manage profile as well.) Service-Provider (User can sale and purchase their any kind of service, this is another profile)
+* Charitable (charitable organization can do register their profiles and manage here, other business holder can share their charities to them.)
 
 ### My Role ###
 Worked with team coordination. Worked on multiple moulds like e-Store, Service Provider, Custom camera and Posting scenarios etc.
