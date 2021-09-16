@@ -36,7 +36,7 @@ DIRECTOOO is an application-based platform for sellers, purchasers, merchants, s
 * Charitable (charitable organization can do register their profiles and manage here, other business holder can share their charities to them.)
 
 ### My Role ###
-Worked with team coordination. Worked on multiple moulds like e-Store, Service Provider, Custom camera and Posting scenarios etc.
+Worked with team coordination. Worked on multiple moulds like e-Store, Service Provider, Custom camera and Posting scenarios, also the part of Chat team etc.
 
 ### Technologies ###
 * Swift
