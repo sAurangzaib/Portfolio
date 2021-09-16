@@ -13,7 +13,7 @@ Favyo is a useful social platform to share your favourite pictures, books, food,
 Worked with team coordination. Worked on different moulds like Unit testing, UI testing, Custom camera and Posting scenarios as well.
 
 ### Technologies ###
-* Swift(5)
+* Swift
 * Realm
 * Lottie animations
 * Google maps
@@ -24,6 +24,31 @@ Worked with team coordination. Worked on different moulds like Unit testing, UI 
 
 <p align="center">
 <img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Favyo/8.png" width="150" title="iPad version">
+</p>
+
+
+# [Directooo – Explore everything you want](https://apps.apple.com/pk/app/directooo/id1565324549)
+This App have different app's ideas inside, we can say this app is one in all.
+Social App(Posting, stories, view users posts, like share etc. Any user can sale their content and can do business with virtual things like user can request to content provider to ful-fill his request and pay to him.)
+E-Commerce (Manage user store like add, update, sale and purchase products also manage profile as well.) Service-Provider (User can sale and purchase their any kind of service, this is another profile)
+Charitable (charitable organization can do register their profiles and manage here, other business holder can share their charities to them.)
+
+### My Role ###
+Worked with team coordination. Worked on multiple moulds like e-Store, Service Provider, Custom camera and Posting scenarios etc.
+
+### Technologies ###
+* Swift
+* Realm
+* Lottie animations
+* Google maps
+* Push Notifications
+* Google Location services
+* Third party logins
+* Firebase
+* Clean architecture
+
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/0.png" width="150" title="iPad version">;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/8.png" width="150" title="iPad version">;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Directo/9.png" width="150" title="iPad version">
 </p>
 
 
