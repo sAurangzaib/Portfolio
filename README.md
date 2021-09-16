@@ -54,7 +54,7 @@ Worked with team coordination. Worked on multiple moulds like e-Store, Service P
 </p>
 
 
-# [Cirlc](https://apps.apple.com/us/app)
+# [Circl](https://apps.apple.com/us/app)
 Worked this project with team coordination. This app is related to Gymming consultancy. This app have two user ends one is Freelancer and other is customer. User as Freelancer can register his/her schdule class time using calender. Add different demo videos images, subscription content, public content and Stories etc. On other end User as Customer can set appointment, follow Trainers and subscribe their content as well and many more.
 
 ### My Role ###
