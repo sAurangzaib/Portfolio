@@ -1,16 +1,16 @@
 # Portfolio
-Overall 5 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Digitify (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVVM, VIPER and Clean architecture with reactive (Rx) and non-reactive. Sound experience of implementing SOLID principles. Delivers many applications to client successfully also published on App-store.
+Overall 5 years of experience in Mobile App Development using Swift and Obj- C. Currently working with Digitify (Pvt) Ltd as Software Engineer (iOS). Deep knowledge of MVVM, VIPER, and Clean architecture with reactive (Rx) and non-reactive. Sound experience in implementing SOLID principles. Delivers many applications to clients successfully also published on App-store.
 
-# [Fayvo – Share your favorites](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
-Favyo is a useful social platform to share your favourite pictures, books, food, fashion, products, places, music, movies, moments and all the good stuff you never want to lose! All organized in one place for others to discover and use as trustworthy recommendations!
-* Connect to your favourite platforms with FAYVO like YouTube, iBook, iMob, iTunes
-* Capture the favourite’s you love with custom camera and apply Editing (Filters, Add Text, Emojis, Location etc)
-* Organise them into boxes, each box define a category that you are capturing.
+# [Fayvo – Share Your Favorites](https://apps.apple.com/pk/app/fayvo-share-your-favorites/id1141717555)
+Fayvo is a useful social platform to share your favorite pictures, books, food, fashion, products, places, music, movies, moments, and all the good stuff you never want to lose! All organized in one place for others to discover and use as trustworthy recommendations!
+* Connect to your favorite platforms with FAYVO like YouTube, iBook, iMob, iTunes
+* Capture the favorite’s you love with a custom camera and apply Editing (Filters, Add Text, Emojis, Location, etc)
+* Organise them into boxes, each box defines a category that you are capturing.
 * Share with friends and family.
 * Discover new recommendations, that will turn into the discovery of new experiences.
 
 ### My Role ###
-Worked with team coordination. Worked on different moulds like Unit testing, UI testing, Custom camera and Posting scenarios as well.
+Worked with team coordination. Worked on different modules like Unit testing, UI testing, Custom camera, and Posting scenarios as well.
 
 ### Technologies ###
 * Swift
@@ -29,14 +29,15 @@ Worked with team coordination. Worked on different moulds like Unit testing, UI 
 
 # [Directooo – Explore everything you want](https://apps.apple.com/pk/app/directooo/id1565324549)
 
-DIRECTOOO is an application-based platform for sellers, purchasers, merchants, service providers and consumers; it will be uniform and trouble-free way to advertise and sell products online.DIRECTOOO utilizes a consolidation that allows online merchants and influencers to instantly profit, offering consumers a convenient, centralized online location to browse, discover, and purchase. This App have different app's ideas inside, we can say this app is one in all.
+DIRECTOOO is an application-based platform for sellers, purchasers, merchants, service providers, and consumers; it will be a uniform and trouble-free way to advertise and sell products online.DIRECTOOO utilizes a consolidation that allows online merchants and influencers to instantly profit, offering consumers a convenient, centralized online location to browse, discover, and purchase. This App has different app's ideas inside, we can say this app is one in all.
 
-* Social App(Posting, stories, view users posts, like share etc. Any user can sale their content and can do business with virtual things like user can request to content provider to ful-fill his request and pay to him.)
-* E-Commerce (Manage user store like add, update, sale and purchase products also manage profile as well.) Service-Provider (User can sale and purchase their any kind of service, this is another profile)
-* Charitable (charitable organization can do register their profiles and manage here, other business holder can share their charities to them.)
+* Social App(Posting, stories, view users posts, like share, etc. Any user can sell their content and can do business with virtual things like user can request to the content provider to full-fill his request and pay to him.)
+* E-Commerce (Manage user store like add, update, sale and purchase products also manage a profile as well.) Service-Provider (User can sell and purchase any kind of service, this is another profile)
+* Charitable (charitable organizations can do register their profiles and manage here, another business holder can share their charities with them.)
 
 ### My Role ###
-Worked with team coordination. Worked on multiple moulds like e-Store, Service Provider, Custom camera and Posting scenarios, also the part of Chat team etc.
+
+Worked with team coordination. Worked on multiple modules like e-Store, Service Provider, Custom camera and Posting scenarios, also the part of Chat team, etc.
 
 ### Technologies ###
 * Swift
@@ -55,10 +56,11 @@ Worked with team coordination. Worked on multiple moulds like e-Store, Service P
 
 
 # [Circl](https://apps.apple.com/us/app)
-Worked this project with team coordination. This app is related to Gymming consultancy. This app have two user ends one is Freelancer and other is customer. User as Freelancer can register his/her schdule class time using calender. Add different demo videos images, subscription content, public content and Stories etc. On other end User as Customer can set appointment, follow Trainers and subscribe their content as well and many more.
+
+Worked on this project with team coordination. This app is related to Gymming consultancy. This app has two user ends one is Freelancer and the other is the customer. Users as Freelancers can register themselves and can set a schedule of class time using the calendar. Add different demo videos images, subscription content, public content, and Stories, etc. On the other end, User as a Customer can set appointments, follow the Trainers and subscribe to their content as well and many more.
 
 ### My Role ###
-Software Engineer-iOS. Worked on different modules, like custom camera, posting, local DB handling and appointments from client to trainers.
+Software Engineer-iOS. Worked on different modules, like custom camera, posting, local DB handling, and appointments from client to trainers.
 
 ### Technologies ###
 * Swift(5)
@@ -72,17 +74,18 @@ Software Engineer-iOS. Worked on different modules, like custom camera, posting,
 * Payment gateways
 
 ### Note ###
-This app isn't available on app-store yet.
+This app isn't available on the app store yet.
 
 <p align="center">
 <img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/Circl/8.png" width="150" title="iPad version">
 </p>
 
 # [RevBits-ZTN – Zero trust network](https://apps.apple.com/us/app)
-This is all about cybersecurity products, the main theme of the App is to provide zero trust network access
-to the users. For the Product we maintain web-site and mobile App for iOS and android as well. Users can handle their own user domain. Initially when a user registers by using any domain’s email, the first user will be the Admin of it’s network and after that all the entries of that particular domain will be considered as users.
+
+This is all about cybersecurity products, the main theme of the App is to provide zero-trust network access
+to the users. For the Product, we maintain the website and mobile app for iOS and Android as well. Users can handle their own user domain. Initially, when a user registers by using any domain’s email, the first user will be the Admin of its network and after that, all the entries of that particular domain will be considered as users.
 Admin can manage their users and also watch their activities as well.
-On the mobile side users will be able to register, login and authenticate himself/ herself.
+On the mobile side, users will be able to register, log in, and authenticate themselves.
 
 ## In the App we covered the following authentications ##
 * Face-ID/Touch-ID (Show anyone of them according to device capabilities) OTP
@@ -91,12 +94,12 @@ On the mobile side users will be able to register, login and authenticate himsel
 * NFC U2F
 
 
-User can authenticate to make himself/ herself an authenticated user of this application. Admin can also Enforce the user to enable some essential authentication types as well.
-Push notifications also handle for better user experience. Like G-mail login notifications, when a user is trying to login on another device with the same credentials that time app receives notification and asks for approval. If the user allows the web to automatically get login.
-Users also enable authentication by Scanning QR code through mobile app and also can do login on the web with scanning as well.
+Users can authenticate to make themselves an authenticated users of this application. Admin can also Enforce the user to enable some essential authentication types as well.
+Push notifications also handle for a better user experience. Like G-mail login notifications, when a user is trying to Login on another device with the same credentials, at that time app receives a notification and asks for approval. If the user allows the web to automatically get a login.
+Users also enable authentication by Scanning QR codes through mobile apps and also can do login on the web with scanning as well.
 
 ### My Role ###
-As iOS developer Communicating with Bussiness team and client, understanding requirements and sprint planning with team members. On iOS side I have created this app from scratch.
+As an iOS developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the iOS side, I have created this app from scratch.
 
 ### Technologies ###
 * Swift(5)
@@ -108,7 +111,44 @@ As iOS developer Communicating with Bussiness team and client, understanding req
 * MVVM
 
 ### Note ###
-This app isn't available on app-store yet.
+This app isn't available on the app store yet.
+
+
+# [7 Speaking](https://apps.apple.com/pk/app/7speaking/id794851471)
+7Speaking covers all language training modalities for 5 learning languages: English training, German, Spanish, French, Italian.
+
+Individual courses, group lessons, elearning, microlearning, social-learning, dual skills training, news-based lessons, video chat ... and all activities are customized according to the level, the profession, the sector of activity and the interests of each.
+
+Workshops:
+- News
+- Video by topics
+- Business Skills
+- Professional Skills
+- Specialised Vocabulary
+- My Vocabulary List
+- Vocabulary Worskshop
+- Grammar Workshop
+- Private lessons management
+- Progress and Time spent
+- Personal Profile
+- Newsfeed (New)
+- Badges (New)
+
+### My Role ###
+As an iOS developer in the support team Communicating with the business team and client, understanding requirements, and fixing them.
+
+### Technologies ###
+* Objective-C
+* Core data
+* Push Notifications
+* Google Location services
+* Firebase
+* MVC
+* Customised webviews, using Objective-C
+
+<p align="center">
+<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/1.png" width="150"  title="Feeds Screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/2.png" width="150" title="My Items">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/3.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/4.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/5.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/6.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/7.png" width="150" title="iPad version">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/8.png" width="150" title="iPad version">;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/9.png" width="150" title="iPad version">;<img src="https://github.com/sAurangzaib/Portfolio/blob/main/images/7Speaking/10.png" width="150" title="iPad version">
+</p>
 
 # [YAP – Your Digital Banking Ap‪p](https://apps.apple.com/us/app/yap-your-digital-banking-app/id1498302242)
 YAP is Fintech application (RxSwift, MVVM-C): Being built using Reactive and MVVM-C, deals with managing user financial account and sub-accounts. Funds transfer, transactions and debit card management is supported. Project follows frameworks based modular structure With all UI build programatically. CI/CD implemented using FASTLANE and Circle CI.
@@ -173,10 +213,10 @@ As iOS Developer gathhered the user requirements and implement into the cutting 
 
 
  # [Ballin Nightlife](https://apps.apple.com/pk/app/ballin-nightlife/id1286870224)
-Ballin is a free Nightlife app that helps people discover Nightclubs and book tickets for the best parties in town. With Ballin, people who want to go clubbing can secure their reservation into a club with just a few taps. We started in London, have added more clubs from more cities across the UK and are now making plans to grow globally.
+Ballin is a free Nightlife app that helps people discover Nightclubs and book tickets for the best parties in town. With Ballin, people who want to go clubbing can secure their reservation into a club with just a few taps. We started in London, have added more clubs from more cities across the UK, and are now making plans to grow globally.
 
 
-Whether you’re looking for a table or guestlist for tonight, or you would like to see what live club events & PA’s are upcoming, or even if you want to plan a stag / hen / birthday party in a Nightclub, Ballin can be used to satisfy your clubbing requirements – download the app and find the clubbing hotspots near you.
+Whether you’re looking for a table or guestlist for tonight, or you would like to see what live club events & PA’s are upcoming, or even if you want to plan a stag/hen/birthday party in a Nightclub, Ballin can be used to satisfy your clubbing requirements – download the app and find the clubbing hotspots near you.
 
 ### My Role ###
 As iOS Developer worked under senior team members. 
