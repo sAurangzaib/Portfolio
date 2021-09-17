@@ -37,7 +37,7 @@ DIRECTOOO is an application-based platform for sellers, purchasers, merchants, s
 
 ### My Role ###
 
-Worked with team coordination. Worked on multiple modules like e-Store, Service Provider, Custom camera and Posting scenarios, also the part of Chat team, etc.
+Developed multiple modules like e-Store, Service Provider, Custom camera and Posting scenarios, also the part of Chat team, etc.
 
 ### Technologies ###
 * Swift
