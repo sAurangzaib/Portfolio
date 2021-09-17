@@ -10,7 +10,7 @@ Fayvo is a useful social platform to share your favorite pictures, books, food, 
 * Discover new recommendations, that will turn into the discovery of new experiences.
 
 ### My Role ###
-Worked with team coordination. Worked on different modules like Unit testing, UI testing, Custom camera, and Posting scenarios as well.
+Developed different modules like Unit testing, UI testing, Custom camera, and Posting scenarios as a part of highly professional team.
 
 ### Technologies ###
 * Swift
