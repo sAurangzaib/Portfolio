@@ -110,9 +110,6 @@ As an iOS developer communicating with the business team and client, understandi
 * Firebase
 * MVVM
 
-### Note ###
-This app isn't available on the app store yet.
-
 
 # [7 Speaking](https://apps.apple.com/pk/app/7speaking/id794851471)
 7Speaking covers all language training modalities for 5 learning languages: English training, German, Spanish, French, Italian.
